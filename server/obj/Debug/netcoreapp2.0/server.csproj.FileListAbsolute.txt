@@ -1,0 +1,10 @@
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/bin/Debug/netcoreapp2.0/server.deps.json
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/bin/Debug/netcoreapp2.0/server.runtimeconfig.json
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/bin/Debug/netcoreapp2.0/server.runtimeconfig.dev.json
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/bin/Debug/netcoreapp2.0/server.dll
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/bin/Debug/netcoreapp2.0/server.pdb
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/obj/Debug/netcoreapp2.0/server.csproj.CoreCompileInputs.cache
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/obj/Debug/netcoreapp2.0/server.AssemblyInfoInputs.cache
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/obj/Debug/netcoreapp2.0/server.AssemblyInfo.cs
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/obj/Debug/netcoreapp2.0/server.dll
+/Users/ryanlesson/Documents/lesson-on-coding/can-activate-can-deactivate/server/obj/Debug/netcoreapp2.0/server.pdb
